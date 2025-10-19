@@ -88,7 +88,8 @@ Me gusta mezclar creatividad con lógica, desarrollar aplicaciones escalables y 
 
 ## 📬 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/afanzo)  
-- 🐙 [GitHub](https://github.com/AgustinRiveroF)  
+- 🐙 [GitHub](https://github.com/AgustinRiveroF)
+-  👤[Mi web](https://fanzo.vercel.app/)
 - 📧 **agusfanzo@gmail.com**  
 
 ---
